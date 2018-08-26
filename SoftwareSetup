@@ -1,0 +1,16 @@
+Rebecca Dannar
+8/26/18
+Software Setup Assignment
+ Clone - "Cloning a git repository means that you create a local copy of the code provided by developer. You can simply do it with a command line: git clone git://github.com/facebook/facebook-ios-sdk.git . and you'll have the code in the facebook-ios-sdk directory"
+ 
+ Commit - "A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes were made when and by who."
+ 
+ Fetch - "Use git fetch to retrieve new work done by other people. Fetching from a repository grabs all the new remote-tracking branches and tags without merging those changes into your own branches."
+ 
+ Pull - "Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch."
+ 
+ Push - "Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub. For instance, if you change something locally, you'd want to then push those changes so that others may access them."
+ 
+ Repository - "The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository. A git repository contains, among other things, the following: A set of commit objects. A set of references to commit objects, called heads."
+ 
+ Visual Studio TFS - "Team Foundation Server (commonly abbreviated to TFS) is a Microsoft product that provides source code management (either with Team Foundation Version Control or Git), reporting, requirements management, project management (for both agile software development and waterfall teams), automated builds, lab management, testing and release management capabilities."
